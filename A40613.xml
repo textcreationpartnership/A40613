@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full narrative of the Pope's death between the 12th and 13th of August, 1689</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40613</idno>
+            <idno type="STC">Wing F2351</idno>
+            <idno type="STC">ESTC R20177</idno>
+            <idno type="EEBO-CITATION">12258989</idno>
+            <idno type="OCLC">ocm 12258989</idno>
+            <idno type="VID">57732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57732)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 184:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full narrative of the Pope's death between the 12th and 13th of August, 1689</title>
+               </titleStmt>
+               <extent>1 [i.e. 2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed, August 30, 1689. J.F."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Innocent --  XI, --  Pope, 1611-1689 --  Death and burial.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:57732:1" rendition="simple:additions"/>
+            <head>A FULL NARRATIVE OF THE Pope's Death, Between the 12<hi rend="sup">th</hi> and 13<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1689.</head>
+            <argument>
+               <p>Licenſed, <date>Auguſt 30. 1689.</date> J. F.</p>
+            </argument>
+            <opener>
+               <dateline>ROME <date>the 13<hi rend="sup">th.</hi> of <hi>Auguſt,</hi> 1689.</date>
+               </dateline>
+            </opener>
+            <p>UPon a Rumor that the Pope began to be in an Agony, of which the People began more and more to be confirmed, for that in the Night the Priſoners were remov'd into the Caſtle; and there was ſent out of the Caſtle to <hi>Villa Pamphilla,</hi> by <hi>Don Livo,</hi> Two Pieces of Cannon, and a Mortar; and all the Money that proper<g ref="char:EOLhyphen"/>ly belonged to the Pope and his Nephews, and <hi>Don Livo,</hi> and Monſieur <hi>Magiaſchi,</hi> went to the <hi>Vattican,</hi> where they took away all the Cloaths out of the Cheſt, and all the Pope's Horſes out of his Stable, and the curious Image of our Saviour, preſented him by the Queen of <hi>Sweden;</hi> and employed Carts the whole Day to carry away the Moveables.</p>
+            <p>The ſame Day the Pope felt a great pain in his Side, and uſed ſome <hi>Aqua Vitoe,</hi> ſent him by Cardinal <hi>Molini,</hi> and found his Ague diminiſh, and come Two Hours later, and then ſent for <hi>D' Terracorda;</hi> and Mon<g ref="char:EOLhyphen"/>ſieur <hi>Magiaſchi</hi> deſired the Pope, That he would be pleaſed to eaſe the People in ſome of their Impoſts, and ſo Die gloriouſly: The Pope an<g ref="char:EOLhyphen"/>ſwered, <hi>The Succeſſor could do it with more Honour.</hi>
+            </p>
+            <p>About Three a Clock the Pope began to cry out, that he ſaw all the Signs of Death on him, and therefore deſired the laſt Unction, which was given him about Four a Clock. He ſent for ſeveral Generals of the Orders, and ſpent the Night with them; and in the Morning deſired Cardinal <hi>Colrado,</hi> chief Father Confeſſor, and receiv'd from him the Be<g ref="char:EOLhyphen"/>nediction in <hi>Articlo Mortis;</hi> and then called for the other Confeſſors, and Two Monks of each Order, to receive their Benediction, and Ab<g ref="char:EOLhyphen"/>ſolution from all the Regulars, and then Recommended his Soul.</p>
+            <p>About Eleven or Twelve, all went home, the Pope ſeeming ſomething better, and ſpake hearty; but ſoon after the Ague returned more ve<g ref="char:EOLhyphen"/>hemently;
+<pb n="1" facs="tcp:57732:2"/> and the Pain that was in his Side ſhot up into his Back; and then called again for the Cardinal to aſſiſt him in the Hour of his Death, and to acquaint the Sacred Colledge, how much troubled he was, that he was not in a ſtate to call them all together; and deſired they would ſupply his Defects, declaring, that he had never erred willingly, and always believed he did well; and deſired they would chuſe ſuch a Suc<g ref="char:EOLhyphen"/>ceſſor as would rectifie his Miſcarriages; and the Money he had left might be employed for the Eaſe of the Subject, and that he had thoughts in the time of his Sickneſs, to take off the Tax of the Meal, but being now at the end of his Days, he left that Glory to his Succeſſor.</p>
+            <p>About the <hi>22th.</hi> hour his Speech failed him, and fell into an Agony, but kept his perfect Senſes till the Tenth hour the next Morning, and moved one of his Hands, and turned his Eyes.</p>
+            <p>The Treaſurer and the Commiſſioners diſpoſed of 120000 Scaddies for Alms. So at laſt dyed Pope <hi>Innocent</hi> the XI.</p>
+            <p>The Captain of the <hi>Switzers</hi> Guards gave preſent Notice to the Chamberlain, Cardinal <hi>Alteri,</hi> who with all the Officers of the Cham<g ref="char:EOLhyphen"/>ber went into the Chamber, and to the ſide of the Bed where the Pope lay, where the Commoners, according to uſual Cuſtom, cryed out three times, <hi>Benedicto Odeſcalchi,</hi> and no body anſwering, was a con<g ref="char:EOLhyphen"/>firmation of his Death; upon which Cardinal <hi>Alteri</hi> took off the Fiſhers Ring, and broke it in the preſence of them all, and his Emi<g ref="char:EOLhyphen"/>nency gave the Corps to the Father-Confeſſors of St. <hi>Peter,</hi> and com<g ref="char:EOLhyphen"/>manded them to reſign it up to the Cannons of the Chappel o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Pao<g ref="char:EOLhyphen"/>lineſſe,</hi> and then gave Notice of all that paſſed, to the Conſerva<g ref="char:EOLhyphen"/>tors of the <hi>Roman</hi> People, and the Bell of <hi>Campidoglio</hi> was rung out for the Summoning of the Council; and then the Officers, with the Militia, went to the Priſons, and diſcharged all the Priſoners, and the ſeveral Princes, Miniſters, Ambaſſadors, and Cardinals, had Armed Men for the Security of their Palaces, and in a ſhort time all the Car<g ref="char:EOLhyphen"/>dinals and Prelates, according to Cuſtom, were in their Mourning Garments.</p>
+            <p>Juſt upon the Departure of the Pope there fell down two Arches of <hi>Caliſen,</hi> and this Morning, upon the opening of his Body, fell a great Storm of Rain, which continued with great Thunder. In each of his Kidneys was found a ſtone, one of which weighed ſeven Ounces, and ſeveral ſmall ſtones in his Bladder, and ſeven in the Bladder of his Gall, which was thought to be occaſioned by his ſo much ſitting and lying. Several dipt their Handkerchifs in his Blood, ſome out of Diſ<g ref="char:EOLhyphen"/>content, others of Devotion.</p>
+            <p>The Pope has left behind him a Million and a half in Money, 300000 <hi>Scaddies</hi> Revenue, 100000 <hi>Scaddies</hi> in vacant Benefices, and Ten Vacancies of Cardinals, beſides the Vacancies that will be made by the Promotions.</p>
+            <p>This Evening was the uſual Pomp in the carrying of his Body to St. <hi>Peters.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>S. Crouch,</hi> at the corner of <hi>Popes-Head-Ally,</hi> over<g ref="char:EOLhyphen"/>againſt the <hi>Royal Exchang<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Cornhill.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
